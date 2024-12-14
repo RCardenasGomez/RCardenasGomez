@@ -16,7 +16,7 @@
 <p align='center'>
 <a href="mailto:ronicarde2014@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-<a href="[https://www.linkedin.com/in/ronaldo-cardenas-gomez/](https://www.linkedin.com/in/ronaldo-gomez-3a4b7b186)" target="_blank">
+<a href="https://www.linkedin.com/in/ronaldo-gomez-3a4b7b186" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>&nbsp;&nbsp;
 
